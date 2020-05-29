@@ -7,7 +7,7 @@ Este es el repositorio de metodos computacionales
 *una
 *lista
 
-![Catedral](https://commons.wikimedia.org/wiki/File:Parroquia_villa_de_leyva.jpg#/media/File:Parroquia_villa_de_leyva.jpg)
+![Catedral](https://upload.wikimedia.org/wikipedia/commons/1/1f/Parroquia_villa_de_leyva.jpg)
 
 
 [Enlace a google](https://www.google.com)
