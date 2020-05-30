@@ -1,3 +1,4 @@
+
 # cositas-de-git
 Este es el repositorio de metodos computacionales
 ### Formato markdown 
@@ -11,3 +12,6 @@ Este es el repositorio de metodos computacionales
 
 
 [Enlace a google](https://www.google.com)
+
+Hola
+X
